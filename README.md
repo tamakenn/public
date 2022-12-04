@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning frontend and backend
 - 💞️ I’m looking to collaborate on web developer project
-- 📫 How to reach me ...
+- 📫 How to reach me http://gg.gg/tamakenn
 
 <!---
 tamakenn/tamakenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
